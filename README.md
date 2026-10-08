@@ -83,3 +83,7 @@ La app usa dos claves en el LocalStorage del navegador:
 - `gastos`: un arreglo en formato JSON con todos los gastos registrados.
 
 Como los datos viven solo en el navegador, no se sincronizan entre dispositivos y se pierden si se borra el almacenamiento del sitio.
+
+## 👤 Autor
+
+Desarrollado por **Suemy Dzib** – [@SuemyDzib](https://github.com/SuemyDzib) a través del curso de Udemy impartido por Juan de la Torre.
