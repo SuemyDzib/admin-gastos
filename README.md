@@ -40,7 +40,7 @@ Ahorro · Comida · Casa · Gastos varios · Ocio · Salud · Suscripciones
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/TU_USUARIO/admin-gastos.git
+   git clone https://github.com/SuemyDzib/admin-gastos.git
    cd admin-gastos
    ```
 
